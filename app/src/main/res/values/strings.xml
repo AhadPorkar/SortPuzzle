@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سورت پازل</string>
+    <string name="studio_name">استودیو بازی‌سازی پارس</string>
+    <string name="studio_tagline">بازی‌های ایرانی، برای همه</string>
+
+    <!-- منوی اصلی -->
+    <string name="play">بازی</string>
+    <string name="continue_level">ادامه‌ی مرحله %1$s</string>
+    <string name="levels">مراحل</string>
+    <string name="shop">فروشگاه</string>
+    <string name="settings">تنظیمات</string>
+    <string name="daily_gift">هدیه‌ی روزانه</string>
+    <string name="quit">خروج</string>
+
+    <!-- صفحه‌ی بازی -->
+    <string name="level_title">مرحله %1$s</string>
+    <string name="moves">حرکت‌ها</string>
+    <string name="best">بهترین</string>
+    <string name="undo">برگرداندن</string>
+    <string name="restart">شروع دوباره</string>
+    <string name="hint">راهنما</string>
+    <string name="add_tube">لوله‌ی کمکی</string>
+    <string name="preparing_level">در حال آماده‌سازی مرحله…</string>
+    <string name="level_cleared">مرحله حل شد!</string>
+    <string name="next_level">مرحله‌ی بعد</string>
+    <string name="replay">تکرار مرحله</string>
+    <string name="back_to_menu">بازگشت به منو</string>
+    <string name="no_moves_left">حرکتی باقی نمانده — دوباره شروع کنید یا لوله‌ی کمکی بگیرید.</string>
+    <string name="reward_earned">%1$s سکه گرفتی</string>
+
+    <!-- کمبود منابع -->
+    <string name="out_of_hints">راهنمایت تمام شد</string>
+    <string name="out_of_undos">برگرداندن‌هایت تمام شد</string>
+    <string name="out_of_tubes">لوله‌ی کمکی نداری</string>
+    <string name="watch_ad_for">تماشای ویدیو و دریافت رایگان</string>
+    <string name="buy_with_coins">خرید با %1$s سکه</string>
+    <string name="not_enough_coins">سکه‌ات کافی نیست</string>
+
+    <!-- فروشگاه -->
+    <string name="shop_title">فروشگاه</string>
+    <string name="tab_boosters">کمک‌ها</string>
+    <string name="tab_coins">سکه</string>
+    <string name="tab_bundles">باندل‌ها</string>
+    <string name="tab_vip">اشتراک ویژه</string>
+    <string name="remove_ads">حذف همیشگی تبلیغات</string>
+    <string name="remove_ads_desc">دیگر هیچ تبلیغ میان‌برنامه‌ای یا بنری نمی‌بینی. ویدیوهای جایزه‌دار به‌دلخواه باقی می‌مانند.</string>
+    <string name="owned">خریداری شده</string>
+    <string name="restore_purchases">بازیابی خریدها</string>
+    <string name="free_coins">سکه‌ی رایگان</string>
+    <string name="free_coins_desc">یک ویدیوی کوتاه ببین و ۵۰ سکه بگیر.</string>
+
+    <string name="bundle_timer">%1$s باقی‌مانده</string>
+    <string name="bundle_expired">این پیشنهاد به پایان رسید</string>
+    <string name="save_percent">%1$s٪ تخفیف</string>
+
+    <string name="vip_title">اشتراک ویژه</string>
+    <string name="vip_perk_ads">بدون هیچ تبلیغ اجباری</string>
+    <string name="vip_perk_daily">۱۰۰ سکه‌ی روزانه</string>
+    <string name="vip_perk_hints">۳ راهنمای روزانه</string>
+    <string name="vip_perk_themes">دسترسی به همه‌ی پوسته‌ها</string>
+    <string name="vip_active_until">فعال تا %1$s</string>
+    <string name="subscribe_monthly">اشتراک ماهانه</string>
+    <string name="subscribe_yearly">اشتراک سالانه</string>
+
+    <!-- تنظیمات -->
+    <string name="music">موسیقی</string>
+    <string name="sfx">صدای بازی</string>
+    <string name="haptics">لرزش</string>
+    <string name="theme">پوسته</string>
+    <string name="reset_progress">پاک کردن پیشرفت</string>
+    <string name="reset_progress_confirm">همه‌ی مرحله‌ها، ستاره‌ها و سکه‌ها پاک می‌شوند. این کار برگشت‌پذیر نیست.</string>
+    <string name="privacy">حریم خصوصی</string>
+    <string name="ad_consent">تنظیم مجدد رضایت تبلیغات</string>
+    <string name="rate_us">امتیاز به بازی</string>
+    <string name="version">نسخه %1$s</string>
+
+    <!-- عمومی -->
+    <string name="confirm">تأیید</string>
+    <string name="cancel">انصراف</string>
+    <string name="close">بستن</string>
+    <string name="ok">باشه</string>
+    <string name="loading">در حال بارگذاری…</string>
+    <string name="locked">قفل</string>
+    <string name="coins">سکه</string>
+
+    <!-- هدیه‌ی روزانه -->
+    <string name="daily_title">هدیه‌ی امروز</string>
+    <string name="daily_streak">%1$s روز پیاپی</string>
+    <string name="daily_claim">دریافت</string>
+    <string name="daily_claimed">هدیه‌ی امروز را گرفته‌ای — فردا برگرد.</string>
+    <string name="daily_double">دو برابر با تماشای ویدیو</string>
+
+    <!-- فصل‌ها -->
+    <string name="chapter">فصل %1$s</string>
+
+    <!-- توضیح دسترسی‌پذیری -->
+    <string name="cd_tube">لوله‌ی شماره %1$s</string>
+    <string name="cd_back">بازگشت</string>
+</resources>
